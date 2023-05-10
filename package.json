@@ -1,6 +1,6 @@
 {
-  "name": "kalend",
-  "version": "0.17.6",
+  "name": "@pricenow/kalend",
+  "version": "0.17.7",
   "author": "nibdo",
   "license": "MIT",
   "private": false,
