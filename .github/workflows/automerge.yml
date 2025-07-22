@@ -2,8 +2,9 @@ name: Merge main to development
 
 on:
   pull_request:
-    branches: [ main ]
-    types: [ closed ]
+    branches: [main]
+    types: [closed]
+  workflow_dispatch:
 
 jobs:
   merge-main-to-dev:
